@@ -35,4 +35,3 @@ connectDB().then(() => {
   });
 });
 
-//mongodb+srv://kushagra-says:kdN4JCbvh9Bvbv8m@cluster0.9ycrk7y.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
